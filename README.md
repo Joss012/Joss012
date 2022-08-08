@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working on Discord Bots
 - :computer: Proficient at `.java` and `.cpp`
-- 🌱 I’m currently learning `.js`, `.html`, `.css`
+- 🌱 I’m currently learning `React.js`,
 - :milky_way: I like to take inspiration from the past and the world around me 
 
